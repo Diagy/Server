@@ -2,6 +2,6 @@
 	"type": "component",
 	"id": "server",
 	"label": "Server",
-	"connections": ["iphone_app", "database"],
+	"connections": ["iphone_app"],
 	"description": "A Node.js server Responsible for handling of the data."
 }
